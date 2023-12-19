@@ -198,6 +198,6 @@ def main ():
     money()
 
 main()
-#EmailAddress = 'shift_shadow@yopmail.com'
-#Password = '3*B}k|_8Bw[/a&;r8=HS-A;/2c65m{3E'
+#EmailAddress = 'example@email.com'
+#Password = '123456789'
 #coupon : SIGNUP30
