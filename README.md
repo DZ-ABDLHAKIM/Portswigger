@@ -159,7 +159,10 @@ You can also use **webhooks** to trigger alerts or actions whenever a scan compl
 ### FAQ
 
 -   **How much does the [Network Scanning](https://apify.com/dz_omar/network-scanning) cost?**
-    The pricing is based on the number of results obtained. For instance, scanning 2,000 IPs costs approximately $0.33, which includes compute units, dataset writes, and external data transfer. You can estimate that scanning 1,000 IPs would cost around $0.165. Apify provides $5 worth of credits for free on their basic plan, which allows you to scan up to 30,303 IPs per month.
-    
+    The pricing is based on the number of results obtained. For instance, scanning 2,000 IPs costs approximately $0.33, which includes computing units, dataset writes, and external data transfer. You can estimate that scanning 1,000 IPs would cost around $0.165. Apify provides $5 worth of credits for free on their basic plan, which allows you to scan up to 30,303 IPs per month.
 -   **Is it legal to scan IPs with the [Network Scanning](https://apify.com/dz_omar/network-scanning)?**
-    Yes, as long as you comply with relevant legal guidelines, such as obtaining permission for scanning certain IP ranges, especially for companies or cloud providers.
+    Yes, as long as you comply with relevant legal guidelines, such as obtaining permission to scan certain IP ranges, especially for companies or cloud providers.
+
+## Support
+
+For issues and support, please create a ticket or contact [fridaytechnolog@gmail.com](mailto:fridaytechnolog@gmail.com).
